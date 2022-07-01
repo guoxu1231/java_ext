@@ -36,7 +36,7 @@
         <guava.version>16.0.1</guava.version>
         <hdrhistogram.version>2.1.7</hdrhistogram.version>
         <!--EE: kafka version used by new storm-kafka-client spout code -->
-        <kafka.version>0.10.2.1</kafka.version>
+        <kafka.version>0.10.2.1-cp1</kafka.version>
         <java.version>1.7</java.version>
         <java7.home>/opt/Development/jdk1.7.0_79</java7.home>
     </properties>
